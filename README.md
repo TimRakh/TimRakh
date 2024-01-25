@@ -4,6 +4,8 @@
 
 [<image alt="Telegram" width="40" hspace="3" src="https://github.com/alfa-prime/alfa-prime/blob/main/img/telegram.svg"/>](https://t.me/Black_Jackiy)
 [<image alt="Telegram" width="40" hspace="3" src="https://www.svgrepo.com/show/484995/email-part-2.svg"/>](https://mail.google.com/mail/u/0/?ogbl#inbox)
+
+
 >[Резюме](https://drive.google.com/file/d/1Ln4nuJcsSrbsxTHLMKyssgHsO_LUL6A1/view?usp=sharing)
 
 ---
