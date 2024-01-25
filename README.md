@@ -39,7 +39,7 @@
 # Сертификаты нетологии:
 - [x] [Английский для программистов](https://netology.ru/backend/api/user/programs/10952/pdf_certificate))
 - [x] [Основы Java](https://netology.ru/backend/api/user/programs/29677/pdf_certificate))
-- [x] [Git — система контроля версий]https://netology.ru/backend/api/user/programs/30044/pdf_certificate)
+- [x] [Git — система контроля версий](https://netology.ru/backend/api/user/programs/30044/pdf_certificate)
 - [x] [Java Core](https://netology.ru/backend/api/user/programs/35197/pdf_certificate)
 - [x] [Шаблоны проектирования](https://netology.ru/backend/api/user/programs/35202/pdf_certificate)
 - [x] [Многопоточное и функциональное программирование](https://netology.ru/backend/api/user/programs/35206/pdf_certificate)
